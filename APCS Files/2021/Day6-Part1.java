@@ -21,4 +21,3 @@ class Main {
     System.out.println(lanternfish.size());
   }
 }
-//FINISHED ON INTELLIJ
